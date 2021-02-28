@@ -4,6 +4,9 @@ bankruptcy prediction for Polish companies dataset
 
 64 variables of financial ratios and 1 response variable
 
+Objective:
+This project is to predict company which took bank loan will go bankrupt or not .based on certain features like total liabilities / total assets, current assets / short-term liabilities, equity / total assets…..like this there are 64 features based on that we have to predict bankruptcy. Dataset information:- The dataset is about bankruptcy prediction of Polish companies. The data was collected from Emerging Markets Information Service (EMIS, [Web Link]), which is a database containing information on emerging markets around the world.
+
 # Data Description :-
 The dataset is about bankruptcy prediction of Polish companies. The data was collected from Emerging Markets Information Service (EMIS, [Web Link]), which is a database containing information on emerging markets around the world. The bankrupt companies were analysed in the period 2000-2012, while the still operating companies were evaluated from 2007 to 2013.
 
